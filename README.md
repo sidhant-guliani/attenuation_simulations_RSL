@@ -1,4 +1,4 @@
-# ATTENUATIO GAIN SI,ULATIONS
+# ATENUATION GAIN SIMULATIONS
 
 Simulations using matlab to provide the attenuation gain gor monolpole antenna.
 
